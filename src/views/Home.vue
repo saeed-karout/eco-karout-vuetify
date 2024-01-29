@@ -1,5 +1,5 @@
 <template>
-     <v-parallax src="https://wallpapercave.com/wp/wp3537555.jpg"> -->
+     <v-parallax src="https://wallpapercave.com/wp/wp3537555.jpg"> 
 
         <div class="hero d-flex  flex-row fill-height justify-space-around align-center">
 
@@ -59,7 +59,7 @@
     <v-divider :thickness="2" class="border-opacity-50 mb-5 w-25 mx-auto" color="warning"></v-divider>
 
 
-  
+
 </template>
 
 <script setup>
